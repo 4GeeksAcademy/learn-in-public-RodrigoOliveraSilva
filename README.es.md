@@ -44,7 +44,7 @@ No te preocupes por el contenido de tu perfil, hoy se trata solo de la estructur
   Importante: deberías probar tu sintáxis de `YML`aquí: http://www.yamllint.com/
   ```
 
-4. Has Commit y push de tus cambios.
+4. Haz Commit y push de tus cambios.
 
   `$ git add .`
   
